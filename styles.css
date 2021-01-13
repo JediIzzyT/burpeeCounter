@@ -1,0 +1,45 @@
+body {
+    color: rgb(209, 205, 199);
+    background-color: rgb(24, 26, 27);
+}
+
+#counter {
+    text-align: center;
+    font-size: 36em;
+}
+
+#gif-1 {
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 20vw;
+}
+
+#gif-2 {
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 20vw;
+}
+
+#gif-3 {
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 20vw;
+}
+
+#gif-4 {
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 20vw;
+}
+
+.gif {
+    width: 100%;
+}
